@@ -1,0 +1,25 @@
+body{
+    background-image: url(img/bg.jpg);
+    background-size: cover;
+    background-position: top;
+    background-attachment: fixed;
+}
+
+#home{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+#service{
+    background-color: whitesmoke;
+} 
+#service i {
+    color: #FDB813;
+}
+
+#footer {
+    color: black;
+}
